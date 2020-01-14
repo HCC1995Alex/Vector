@@ -1,0 +1,2 @@
+Decimal : 12
+Binary : 1100
